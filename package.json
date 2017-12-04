@@ -1,8 +1,8 @@
 {
   "name": "react-native-reprolog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "react-native integrations for reprolog",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "author": "vaukalak",
   "bugs": {
     "url": "https://github.com/vaukalak/react-native-reprolog/issues",
